@@ -4,7 +4,7 @@ const Services = () => {
     return (
         <>
          <Hero 
-             backgroud="/src/assets/ServicesBg.jpg"
+             backgroud="/Trippy/src/assets/ServicesBg.jpg"
              title="Services"
         />
         </>

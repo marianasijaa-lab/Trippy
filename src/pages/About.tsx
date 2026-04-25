@@ -4,7 +4,7 @@ const About = () => {
     return (
         <>
          <Hero 
-             backgroud="/src/assets/AboutBg.jpg"
+             backgroud="/Trippy/src/assets/AboutBg.jpg"
              title="About  "
         />
         </>

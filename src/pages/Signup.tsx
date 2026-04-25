@@ -6,7 +6,7 @@ const Signup = () => {
   return (
     <>
     <Hero 
-             backgroud="/src/assets/ContactBg.jpg"
+             backgroud="/Trippy/src/assets/ContactBg.jpg"
              title="SignUp" 
         />
        

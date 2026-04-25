@@ -47,7 +47,9 @@ const router = createBrowserRouter  ([
   
 
 
-])
+],{
+  basename:"/Trippy"
+})
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
